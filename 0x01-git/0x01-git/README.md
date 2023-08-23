@@ -1,1 +1,1 @@
-readme fot 0x01-git
+reademe for 0x01-git
